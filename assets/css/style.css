@@ -15,11 +15,17 @@
 
 /* ---------------- Logo --------------*/
 
+.logo {
+    background: url("../images/Logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
 
 
 
 /* ---------------- Index Core Detail --------------*/
-
+/* -------
 html { 
     background: url(../images/mainsplash.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -27,13 +33,19 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
-
+*/
+ .bg-background {
+     background-image: url(../images/mainsplash.jpg);
+     min-height: 500px;
+ }
 
  /* ----------------- Footer ----------------------*/
 
  .address {
      list-style: none;
  }
+
+ 
  
   /* ---------------- Social Links ------------------*/
 
