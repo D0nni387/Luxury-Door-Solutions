@@ -24,3 +24,50 @@ As a business, they have provided me with the following goals for the site.
 
 ## UX
 
+As the company is newly established the existing client base is small and obtained through previous working relationships. the main aim is to draw new clients that meet the below criterias 
+
+1. Based within the UK & Channel Islands.
+2. Is working within the construction industry.
+3. Works with wealthy clients on high end projects.
+4. Focus on quality over quantity
+
+To help this site stand out from the other door and door set manufacturers based in the UK it needs to ensure it
+* Is easy to use.
+* Doesn't overload the user with too many 'walls of text'.
+* Reminds the user to start building a relationship with the company.
+
+---
+
+## Client stories
+
+
+---
+
+## Wireframe Mockups:
+
+---
+
+## Features
+
+---
+
+## Future Goals
+
+---
+
+##Technology Used
+
+---
+
+## Testing
+
+---
+
+## Deployment
+
+---
+
+## Working Credits
+
+
+
