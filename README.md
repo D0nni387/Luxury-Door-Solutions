@@ -61,6 +61,10 @@ To help this site stand out from the other door and door set manufacturers based
 
 ## Technology Used
 
+* HTML5 & CSS3 programming languages
+* Bootstrap 4 CDN to easily adapt the website to be responsive for all users
+* Google Fonts - Quicksilver & Roboto Styles
+
 ---
 
 ## Testing
