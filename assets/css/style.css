@@ -62,3 +62,8 @@
     margin: 30px auto;
     text-align: center;
 }
+
+hr {
+    width: 20%;
+    border-color: #f6c67c;
+}
