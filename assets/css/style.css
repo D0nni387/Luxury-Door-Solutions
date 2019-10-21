@@ -13,6 +13,8 @@
     color: #f6c67c;
 }
 
+
+
 /* ------- Header ----------- */
 
 .logo {
@@ -44,3 +46,11 @@
     color: #777777;
     transition-duration: .5s;
 }
+
+/* ------------About us -----------*/
+
+.about-us-format {
+ padding: 20px;
+ margin: 50px auto;
+}
+
