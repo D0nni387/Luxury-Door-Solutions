@@ -21,10 +21,15 @@
 
 /* ---------- Navigation -------- */
 
-.nav {
+.navbar {
     background-color: #404141;
 }
 
+.nav-item {
+    background-color: #404141;
+}
+
+.navbar-brand,
 .nav-link {
     color: #f6c67c;
 }
