@@ -1,4 +1,4 @@
-![alt text](assets/images/logo.png "Luxury Door Solutions")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 # Bringing Luxury Home
 

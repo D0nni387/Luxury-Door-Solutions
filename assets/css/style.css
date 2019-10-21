@@ -2,11 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500|Roboto:400,400i,500,500i&display=swap');
 
+/*--------Colors ------- */
+
 .bg-color-main {
     background-color: #404141;
 }
 
 .font-color-main {
+    font-family: "Quicksand", sans-serif;
     color: #f6c67c;
 }
 
@@ -26,10 +29,18 @@
 }
 
 .nav-item {
+    font-family: "Quicksand", sans-serif;
     background-color: #404141;
 }
 
 .navbar-brand,
 .nav-link {
+    font-family: "Quicksand", sans-serif;
     color: #f6c67c;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #777777;
+    transition-duration: .5s;
 }
