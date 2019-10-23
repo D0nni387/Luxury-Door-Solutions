@@ -50,9 +50,25 @@
 /* ------------About us -----------*/
 
 .about-us-format {
- padding: 20px;
+ padding: 20px 50px;
  margin: 50px auto;
 }
+
+.placeholder-one {
+    padding-top: 25px;
+    padding-right: 50px;
+    max-height: auto;
+    max-width: 75%;
+
+}    
+
+.placeholder-two {
+    padding-top: 25px;
+    padding-left: 50px;
+    max-height: auto;
+    max-width: 75%;
+
+}    
 
 
 /* ----------Welcome -------------*/
