@@ -74,3 +74,12 @@ hr {
     width: 20%;
     border-color: #f6c67c;
 }
+
+/* -----------Icons -------------- */
+
+.icon {
+    border-radius: 50%;
+    border-style: solid;
+    max-height: 40%;
+    max-width: 40%;
+}
