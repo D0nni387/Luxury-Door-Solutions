@@ -54,9 +54,8 @@
 
 .about-us-card {
     padding-top: 25px;
-    padding-right: 50px;
     max-height: auto;
-    max-width: 100%;
+    max-width: 90%;
 
 }    
 
@@ -78,6 +77,15 @@ hr {
 .icon {
     border-radius: 50%;
     border-style: solid;
-    max-height: 40%;
-    max-width: 40%;
+    max-height: 30%;
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* --------- Page Breaks ----------- */
+
+.pagebreak {
+    text-align: center;
 }
