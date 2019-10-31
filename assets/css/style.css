@@ -47,6 +47,10 @@
 
 /* ------------About us -----------*/
 
+.about-us {
+    padding: 200px 200px;
+}
+
 .about-us-format {
  vertical-align: middle;
 }
@@ -85,6 +89,18 @@ hr {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* ------------Contact Us ------------ */
+
+.contact-us {
+    padding: 24px;
+}
+
+/* --------------Footer -------------- */
+
+.footer {
+    padding-top:10px;
 }
 
 /* --------- Page Breaks ----------- */
