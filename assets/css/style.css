@@ -81,15 +81,19 @@ hr {
 
 /* -----------Icons -------------- */
 
+.icon-format {
+    padding-top: 15px;
+}
+
 .icon {
     border-radius: 50%;
     border-style: solid;
-    max-height: 30%;
     max-width: 30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 
 /* ------------Contact Us ------------ */
 
