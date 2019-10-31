@@ -48,8 +48,7 @@
 /* ------------About us -----------*/
 
 .about-us-format {
- padding: 20px 50px;
- margin: 50px auto;
+ vertical-align: middle;
 }
 
 .about-us-card {
@@ -70,6 +69,10 @@
 hr {
     width: 20%;
     border-color: #f6c67c;
+}
+
+.subhead {
+    text-decoration: underline;
 }
 
 /* -----------Icons -------------- */
