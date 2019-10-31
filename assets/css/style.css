@@ -103,6 +103,28 @@ hr {
     padding-top:10px;
 }
 
+.social-links {
+    padding-top: 20px;
+}
+
+.social-links li a i {
+    width: 45px;
+    height: 45px;
+    padding: 18px;
+    border-radius: 15%;
+    font-size: 18px;
+    line-height: 7px;
+    text-align: center;
+    color: #404141;
+    background: #f6c67c;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
+
 /* --------- Page Breaks ----------- */
 
 .pagebreak {
