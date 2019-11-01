@@ -46,6 +46,8 @@ To help this site stand out from the other door and door set manufacturers based
 
 "I want to be able to easily find contact information so i can discuss my project with an estimator"
 
+"The site needs to explain that we can product fire rated and acoustic rated doors"
+
 ---
 
 ## Wireframe Mockups:
@@ -56,9 +58,25 @@ Wireframes are available here (link to add)
 
 ## Features
 
+### About us
+
+### What We Do
+
+### Fire & Acoustics
+
+### The Finishing Touches
+
+### Contact Us
+
 ---
 
 ## Future Goals
+
+### Document Uploading
+
+### Interactive Gallery
+
+### Blog
 
 ---
 
@@ -67,6 +85,7 @@ Wireframes are available here (link to add)
 * HTML5 & CSS3 programming languages
 * Bootstrap 4 CDN to easily adapt the website to be responsive for all users
 * Google Fonts - Quicksilver & Roboto Styles
+* Font Awesome - Social Media Logos
 
 ---
 
