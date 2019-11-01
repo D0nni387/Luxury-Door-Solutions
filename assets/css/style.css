@@ -21,6 +21,12 @@
   margin-right: auto;
 }
 
+/* --------- Section Heads -----------*/
+
+.divider {
+    text-align: center;
+    padding-top: 10px;
+}
 
 /* ---------- Navigation -------- */
 
@@ -121,10 +127,6 @@ hr {
     text-align: center;
     color: #404141;
     background: #f6c67c;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
 
@@ -132,5 +134,11 @@ hr {
 /* --------- Page Breaks ----------- */
 
 .pagebreak {
+    border: #f6c67c;
+    border-style: solid;
+    border-width: 1px;
     text-align: center;
+    height: 0px;
+    width: 40%;
+    padding-top: 50px;
 }
