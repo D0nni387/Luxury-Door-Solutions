@@ -13,6 +13,11 @@
     color: #f6c67c;
 }
 
+p {
+    color: #404141;
+    font-family: "Quicksand", sans-serif;
+}
+
 /* ------- Header ----------- */
 
 .logo {
@@ -58,13 +63,13 @@
 }
 
 .about-us-format {
- vertical-align: middle;
+ padding-top: 25px;
 }
 
 .about-us-card {
     padding-top: 25px;
     max-height: auto;
-    max-width: 90%;
+    max-width: 100%;
 
 }    
 
@@ -78,6 +83,19 @@
 
 .subhead {
     text-decoration: underline;
+}
+
+/* ------------What we do card ------------*/
+
+.wwd-card {
+    padding-top: 0px;
+    max-height: auto;
+    max-width: 100%;
+
+} 
+
+.wwd-format {
+    padding-top: 25px;
 }
 
 /* -----------Icons -------------- */
