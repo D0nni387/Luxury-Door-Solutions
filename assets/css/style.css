@@ -35,6 +35,10 @@ p {
 
 /* ---------- Navigation -------- */
 
+.navbar-collapse {
+    justify-content: center;
+}
+
 .navbar {
     background-color: #404141;
 }
