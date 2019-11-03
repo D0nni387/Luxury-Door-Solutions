@@ -134,10 +134,9 @@ p {
 .social-links li a i {
     width: 45px;
     height: 45px;
-    padding: 18px;
     border-radius: 15%;
     font-size: 18px;
-    line-height: 7px;
+    line-height: 45px;
     text-align: center;
     color: #404141;
     background: #f6c67c;
