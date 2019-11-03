@@ -155,3 +155,9 @@ p {
     width: 40%;
     padding-top: 50px;
 }
+
+/* -------- Behavior ------------- */
+
+html {
+    scroll-behavior: smooth;
+}
