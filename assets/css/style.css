@@ -72,16 +72,20 @@ p {
 }
 
 .about-us-format {
-    padding-top: 25px;
+    padding: 0px;
     font-size: 1.25rem;
     align-self: center;
 }
 
 .about-us-card {
-    padding-top: 25px;
+    padding: 0px;
     max-height: auto;
     max-width: 100%;
 
+}
+
+.about-us-image {
+    padding: 0px;
 }
 
 /* ----------Welcome -------------*/
