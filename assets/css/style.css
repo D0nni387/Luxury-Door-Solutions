@@ -112,7 +112,9 @@ p {
 }
 
 .wwd-format {
-    padding-left: 10px;
+    font-size: 1.25rem;
+    align-self: center;
+    padding: 1rem 2rem;
 }
 
 /* ---------Finishing Touches ----------- */
