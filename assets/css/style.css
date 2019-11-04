@@ -13,6 +13,11 @@
     color: #f6c67c;
 }
 
+.font-color-inverse {
+    font-family: "Quicksand", sans-serif;
+    color: #f6c67c;
+}
+
 p {
     color: #404141;
     font-family: "Quicksand", sans-serif;
@@ -86,7 +91,12 @@ p {
 }
 
 
-/* ------------What we do card ------------*/
+/* ------------What we do ------------*/
+
+.what-we-do {
+    background-color: #404141;
+    
+}
 
 .wwd-card {
     padding-top: 0px;
