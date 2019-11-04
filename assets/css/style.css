@@ -115,6 +115,9 @@ p {
     background-color: #404141;
 }
 
+.card {
+    border: 0px;
+}
 
 /* -----------Icons -------------- */
 
