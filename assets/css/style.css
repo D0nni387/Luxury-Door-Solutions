@@ -40,6 +40,14 @@ p {
 
 /* ---------- Navigation -------- */
 
+.navbar-stick {
+    display: flex;
+    top: 0px;
+    left: 0px;
+    position: sticky;
+    z-index: 999999;
+}
+
 .navbar-collapse {
     justify-content: center;
 }
