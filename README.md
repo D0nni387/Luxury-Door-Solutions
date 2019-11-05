@@ -93,6 +93,7 @@ When the company has completed more projects they have said an easy to update ga
 ### Blog
 
 As the director is keen to portray the ongoing jobs and completed works he has discussed the idea of doing a blog and maybe intergrating within the site.
+
 ---
 
 ## Technology Used
