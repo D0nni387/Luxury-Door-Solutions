@@ -120,14 +120,23 @@ h1 {
     padding: 1rem 2rem;
 }
 
+/* -------- Fire & Acoustics --------*/
+
+.faa-format {
+    padding-bottom: 5rem;
+}
+
+
 /* ---------Finishing Touches ----------- */
 
 .finishing-touches-format {
     background-color: #404141;
+    padding-bottom: 5rem;
 }
 
 .card {
     border: 0rem;
+    padding: 3rem;
 }
 
 /* -----------Icons -------------- */
