@@ -53,13 +53,13 @@ p {
     background-color: #404141;
 }
 
-.navbar-brand,
-.nav-link {
+.navbar-dark .navbar-nav .nav-link {
     font-family: "Quicksand", sans-serif;
     color: #f6c67c;
 }
 
-.navbar-brand:hover,
+.navbar-dark,
+.navbar-nav:hover,
 .nav-link:hover {
     color: #777777;
     transition-duration: .5s;
