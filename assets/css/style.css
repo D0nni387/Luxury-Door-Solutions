@@ -88,10 +88,10 @@ p {
     padding: 0rem;
 }
 
-/* ----------Welcome -------------*/
+/* ----------Heads-------------*/
 
-.welcome {
-    padding: 0px;
+h1 {
+    padding: 8rem 0rem;
     text-align: center;
 }
 
@@ -153,8 +153,6 @@ p {
     height: 50%;
 }
 
-
-
 /* --------------Footer -------------- */
 
 .footer {
@@ -175,8 +173,6 @@ p {
     color: #404141;
     background: #f6c67c;
 }
-
-
 
 /* -------- Behavior ------------- */
 
