@@ -60,13 +60,23 @@ Wireframes are available here (link to add)
 
 ### About us
 
+A brief introduction to the company showcasing 2 finished doors with a brief to the point introduction text
+
 ### What We Do
+
+A deeper breakdown of the processes used to manufacture our doors and the labour and love that goes into each one
 
 ### Fire & Acoustics
 
+A descriptive section to inform on the fire ratings and acoustic ratings the doors can be made to
+
 ### The Finishing Touches
 
+3 Cards to describe the additional products that can be installed or supplied with the doors to help upselling
+
 ### Contact Us
+
+A contact us form to allow for lead generation through the site, a map to the showroom and general contact information.
 
 ---
 
@@ -74,10 +84,15 @@ Wireframes are available here (link to add)
 
 ### Document Uploading
 
+The client has requested in future that documents for larger projects could be submitted for tender with potential job management through the site?
+
 ### Interactive Gallery
+
+When the company has completed more projects they have said an easy to update gallery would be a good feature.
 
 ### Blog
 
+As the director is keen to portray the ongoing jobs and completed works he has discussed the idea of doing a blog and maybe intergrating within the site.
 ---
 
 ## Technology Used
