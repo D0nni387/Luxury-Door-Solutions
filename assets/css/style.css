@@ -2,6 +2,22 @@
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500|Roboto:400,400i,500,500i&display=swap');
 
+/* -------- Global Behavior ------------- */
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: #404141;
+    font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+    padding: 8rem 0rem;
+    text-align: center;
+}
+
 /*--------Colors ------- */
 
 .bg-color-main {
@@ -15,12 +31,7 @@
 
 .font-color-inverse {
     font-family: "Quicksand", sans-serif;
-    color:#404141;
-}
-
-p {
     color: #404141;
-    font-family: "Quicksand", sans-serif;
 }
 
 /* ------- Header ----------- */
@@ -29,13 +40,6 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-/* --------- Section Heads -----------*/
-
-.divider {
-    text-align: center;
-    padding-top: 1rem;
 }
 
 /* ---------- Navigation -------- */
@@ -96,20 +100,12 @@ p {
     padding: 0rem;
 }
 
-/* ----------Heads-------------*/
-
-h1 {
-    padding: 8rem 0rem;
-    text-align: center;
-}
-
-
 /* ------------What we do ------------*/
 
 .what-we-do {
     background-color: #404141;
     padding: 0rem;
- }
+}
 
 .wwd-card {
     padding: 0px;
@@ -207,10 +203,4 @@ h1 {
     text-align: center;
     color: #404141;
     background: #f6c67c;
-}
-
-/* -------- Behavior ------------- */
-
-html {
-    scroll-behavior: smooth;
 }
