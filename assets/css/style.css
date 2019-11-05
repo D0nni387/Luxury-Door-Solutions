@@ -109,6 +109,10 @@ h1 {
 
 }
 
+.content-align {
+    text-align: center;
+    margin-top: 5rem;
+}
 
 .wwd-format {
     font-size: 1.25rem;
