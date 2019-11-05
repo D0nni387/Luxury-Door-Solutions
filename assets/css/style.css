@@ -139,6 +139,15 @@ h1 {
     font-size: 1.2rem;
 }
 
+.faa-icon {
+    border-radius: 50%;
+    border-style: solid;
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* ---------Finishing Touches ----------- */
 
