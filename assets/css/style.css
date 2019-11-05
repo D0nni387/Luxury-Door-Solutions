@@ -35,7 +35,7 @@ p {
 
 .divider {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 1rem;
 }
 
 /* ---------- Navigation -------- */
@@ -68,11 +68,11 @@ p {
 /* ------------About us -----------*/
 
 .about-us {
-    padding: 200px 200px;
+    padding: 12.5rem 12.5rem;
 }
 
 .about-us-format {
-    padding: 0px;
+    padding: 1rem;
     font-size: 1.25rem;
     align-self: center;
 }
@@ -85,14 +85,14 @@ p {
 }
 
 .about-us-image {
-    padding: 0px;
+    padding: 0rem;
 }
 
 /* ----------Welcome -------------*/
 
 .welcome {
     padding: 0px;
-    margin: 30px auto;
+    margin: 1.75rem auto;
     text-align: center;
 }
 
@@ -124,13 +124,13 @@ p {
 }
 
 .card {
-    border: 0px;
+    border: 0rem;
 }
 
 /* -----------Icons -------------- */
 
 .icon-format {
-    padding-top: 15px;
+    padding-top: 1rem;
 }
 
 .icon {
@@ -146,7 +146,7 @@ p {
 /* ------------Contact Us ------------ */
 
 .contact-us {
-    padding: 50px;
+    padding: 3rem;
 }
 
 .map {
@@ -159,19 +159,19 @@ p {
 /* --------------Footer -------------- */
 
 .footer {
-    padding-top: 10px;
+    padding-top: 1rem;
 }
 
 .social-links {
-    padding-top: 20px;
+    padding-top: 1.25rem;
 }
 
 .social-links li a i {
-    width: 45px;
-    height: 45px;
+    width: 3rem;
+    height: 3rem;
     border-radius: 15%;
-    font-size: 18px;
-    line-height: 45px;
+    font-size: 1.25rem;
+    line-height: 3rem;
     text-align: center;
     color: #404141;
     background: #f6c67c;
