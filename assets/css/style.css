@@ -100,15 +100,15 @@ h1 {
 
 .what-we-do {
     background-color: #404141;
-
-}
+ }
 
 .wwd-card {
-    padding-top: 0px;
+    padding: 0px;
     max-height: auto;
     max-width: 100%;
 
 }
+
 
 .wwd-format {
     font-size: 1.25rem;
