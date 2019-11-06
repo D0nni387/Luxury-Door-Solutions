@@ -204,3 +204,7 @@ h1 {
     color: #404141;
     background: #f6c67c;
 }
+
+#map {
+    border: 0;
+}
