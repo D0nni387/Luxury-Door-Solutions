@@ -6,6 +6,8 @@
 
 ## Aim of the site
 
+The client has stated they are unhappy with their current website and have asked for this to be redesigned to the follow specification;
+
 A website to showcase the offerings of a door and doorset manufacturer based in Barnsley, UK. 
 The primary aim of the website is to one showcase the types of craftsmanship available and products that can
 be designed and produced within the factory.
@@ -107,6 +109,8 @@ As the director is keen to portray the ongoing jobs and completed works he has d
 
 ## Testing
 
+
+
 ---
 
 ## Deployment
@@ -114,6 +118,10 @@ As the director is keen to portray the ongoing jobs and completed works he has d
 ---
 
 ## Working Credits
+
+All images provided by the client from their existing website & test shots taken on site.
+
+The initial paragraph of text was also reused from the existing site, all other text has been rewritten with the client. 
 
 
 
