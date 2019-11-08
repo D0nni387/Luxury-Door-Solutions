@@ -116,10 +116,8 @@ h1 {
 
 @media (min-width: 992px) { .wwd-subtitle {
     padding-top: 8rem;
+    }
 }
-}
-
-
 
 .wwd-format {
     font-size: 1.25rem;
@@ -151,14 +149,17 @@ h1 {
 
 .finishing-touches-format {
     background-color: #404141;
-    padding-bottom: 5rem;
+    padding: 5rem, 1rem, 5rem, 1rem;
 }
 
 .card {
     border: 0rem;
-    padding: 3rem;
+    padding: 5rem, 1rem, 5rem, 1rem;
 }
 
+.card-group {
+    padding-bottom: 5rem;
+}
 
 /* -----------Icons -------------- */
 
