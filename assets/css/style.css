@@ -200,6 +200,7 @@ p {
 .btn-primary {
     background-color: #404141;
     border: #e6b873;
+    color: #e6b873;
 }
 
 .btn-primary:hover {
