@@ -188,6 +188,11 @@ h1 {
     height: 50%;
 }
 
+.tel-link:hover {
+    text-decoration: none;
+    color: #e6b873;
+}
+
 /*Footer*/
 
 .footer {
