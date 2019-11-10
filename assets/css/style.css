@@ -197,6 +197,17 @@ p {
     color: #e6b873;
 }
 
+.btn-primary {
+    background-color: #404141;
+    border: #e6b873;
+}
+
+.btn-primary:hover {
+    background-color: #e6b873;
+    border: #404141;
+    color: #404141;
+}
+
 /*Footer*/
 
 .footer {
