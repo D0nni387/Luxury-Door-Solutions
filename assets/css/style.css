@@ -13,7 +13,7 @@ p {
     font-family: "Quicksand", sans-serif;
 }
 
-h1 {
+.section-head {
     padding: 8rem 0rem;
     text-align: center;
 }
@@ -123,6 +123,10 @@ h1 {
     font-size: 1.25rem;
     align-self: center;
     padding: 0rem 2rem;
+}
+
+.wwd-subtitle {
+    text-align: center;
 }
 
 /*Fire & Acoustics*/
