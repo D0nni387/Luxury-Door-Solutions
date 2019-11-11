@@ -118,8 +118,9 @@ p {
 
 }
 
-@media (min-width: 992px) { .wwd-subtitle {
-    padding-top: 8rem;
+@media (min-width: 992px) {
+    .wwd-subtitle {
+        padding-top: 8rem;
     }
 }
 
