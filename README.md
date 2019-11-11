@@ -50,11 +50,11 @@ To help this site stand out from the other door and door set manufacturers based
 
 "As a visitor to the site i want to be met with clear to the point information to allow me to understand what the business can do for me and how i can get the product i want to complete my project"
 
-"I want to ensure i feel confident that the company can provide the products to ensure my client is beyond satisfied with their final product"
+"As a visitor I want to ensure i feel confident that the company can provide the products to ensure my client is beyond satisfied with their final product"
 
-"I want to be able to easily find contact information so i can discuss my project with an estimator"
+"As a visitor I want to be able to easily find contact information so i can discuss my project with an estimator"
 
-"The site needs to explain that we can product fire rated and acoustic rated doors"
+"As a vistor The site needs to explain that we can product fire rated and acoustic rated doors"
 
 ---
 
