@@ -250,15 +250,15 @@ The initial paragraph of text was also reused from the existing site, all other 
 
 Last of all i would like to thank my fellow students and everyone on the code institute slack channels for all their help with special mention to the below.
 
-https://github.com/Eventyret - Simen Daehlin (mentor) for his invaluable input and advice
+[Simen Daehlin](https://github.com/Eventyret) - (mentor) for his invaluable input and advice
 
 and my peers for their input in #peer-review-code
 
-https://github.com/bennettpe - Bennettpe_alumni
+[Bennettpe_alumni](https://github.com/bennettpe) 
 
-https://github.com/wings30306 -JoWings
+[JoWings](https://github.com/wings30306)
 
-https://github.com/debrawolford/ - Debra Walford
+[Debra Walford](https://github.com/debrawolford/) 
 
 ## Disclaimer
 Please note the content and images on this website are for educational purposes only.
