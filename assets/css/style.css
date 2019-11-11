@@ -18,6 +18,10 @@ p {
     text-align: center;
 }
 
+.subhead {
+    text-align: center;
+}
+
 /*Colors*/
 
 .bg-color-main {
@@ -132,7 +136,7 @@ p {
 /*Fire & Acoustics*/
 
 .faa-format {
-    padding: 0rem, 0rem, 5rem, 0rem;
+    padding: 0rem 0rem 5rem 0rem;
 }
 
 .faa-font-format {
@@ -153,12 +157,12 @@ p {
 
 .finishing-touches-format {
     background-color: #404141;
-    padding: 5rem, 1rem, 5rem, 1rem;
+    padding: 5rem 1rem 5rem 1rem;
 }
 
 .card {
     border: 0rem;
-    padding: 5rem, 1rem, 5rem, 1rem;
+    padding: 5rem 1rem 5rem 1rem;
 }
 
 .card-group {
