@@ -238,3 +238,7 @@ p {
 #map {
     border: 0;
 }
+
+.testRule {
+    width: 100%;
+}
